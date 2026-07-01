@@ -1,0 +1,6 @@
+{
+  "name": "Kotlin Blocks",
+  "description": "An interactive, visual block-based programming environment for learning and writing Kotlin logic with an execution engine and live code preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
